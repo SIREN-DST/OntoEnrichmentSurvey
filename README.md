@@ -1,5 +1,7 @@
 # README
 
+List of shortlisted papers - https://drive.google.com/file/d/1K7n5hjn3FEpwWY2RubeN112zZpGJBuka/view
+
 This repository contains the implementations of some of the seminal papers on Ontology Enrichment, namely:
 - [Guided Clustering](https://pub.uni-bielefeld.de/download/2497720/2525546/Cimiano_Learning_Concep_1.pdf)
 - [C-Pankow](https://dl.acm.org/citation.cfm?id=1060796)
